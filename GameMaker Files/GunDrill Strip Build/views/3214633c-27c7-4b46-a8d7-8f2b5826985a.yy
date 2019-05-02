@@ -1,0 +1,30 @@
+{
+    "id": "3214633c-27c7-4b46-a8d7-8f2b5826985a",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "3214633c-27c7-4b46-a8d7-8f2b5826985a",
+    "children": [
+        "4254a3fc-e27c-457a-9f4f-938449ec4d76",
+        "a17e3b5b-1228-41e5-b612-33638650fd8a",
+        "5ba2a9af-3ffc-49af-b7a8-07ae2ed8d57b",
+        "85473339-71b6-4ef8-a858-b7c9d6c5a60c",
+        "5dcee3fc-cd2a-41fd-b2fa-17935d28717d",
+        "f92fa41b-56aa-4a07-8fab-a3ef1d5f16e5",
+        "9e8841dc-93d7-4925-ada6-6d031ece37d9",
+        "f02d05fa-0623-4ddc-8229-ad69936a925f",
+        "537d00cc-41d6-4cb8-a192-30f5b661bdc4",
+        "c2ea4207-6acb-4793-97e6-0be02fa4fa45",
+        "31beac21-2862-4b91-bf8e-4dd6b6446fd3",
+        "3f67a49a-faa8-420e-895a-eaf6df116844",
+        "e91a9385-dea4-4c57-be5e-776feb6ff2e6",
+        "368564e6-5459-4ded-bf30-c89053af1931",
+        "f16b379e-7dd5-4d91-bd3f-5412e037643e",
+        "fa4e75ad-4408-44b3-a76d-6cddd4536a81",
+        "75f32fbe-42ee-4e1c-9bb8-b291d0bb472d",
+        "574df28b-a26e-4bed-bc12-de64e8b4aaae"
+    ],
+    "filterType": "GMScript",
+    "folderName": "Enemies",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

@@ -1,0 +1,44 @@
+The Plan
+--------
+
+So, I eventually want to come back to GunDrill. Ideally what I want to happen is for me to balance out the
+basics in the design I don't think quite work, add content (lots of levels and enemies), polish it as much
+as possible without overstepping the scope, and then release it for free on itch.io or something.
+
+To do this I think there are definitely some things to be addressed. I need a plan.
+
+First of all I'm just going to throw out some general design concerns:
+- The movement is still a bit questionable. The mechanics don't feel connected enough.
+- Project is bloated. I wanna start fresh but re-use assets/scripts
+
+I wonder if perhaps I should prototype a mini gundrill thing just to test this movement stuff works.
+I could use it as a platform to really test the base game, and create lots of levels.
+
+On the subject of the control, some thoughts:
+- Lack of connection
+- Maybe make everything related to shooting in directions for movement
+- If we do this it'd be cohesive, though it might sort of nullify the point of the jetpack
+- If shooting is used for movement, I think a clip should be used
+- One possible control scheme would be to have 8-directional shooting, and fixed directions for each
+- Another would be (and this one makes sense since top-aimed shooting wouldn't really be used for mobile 
+stuff) to have the A button trigger downwards shooting, and the direction to change based on movement
+(moving left aims the gun right-down, and moving right aims the gun left-down)
+
+
+
+I want to explore the last-mentioned control scheme a bit:
+- 8 directions
+- Left to up to right are normal shooting (X to shoot)
+- Down-left to down-right are movement shooting (A to shoot)
+- Drill-shoot still exists, with both buttons
+
+
+
+
+
+
+
+
+
+
+
