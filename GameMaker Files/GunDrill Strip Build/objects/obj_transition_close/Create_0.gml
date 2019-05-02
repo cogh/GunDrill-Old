@@ -1,0 +1,2 @@
+thickness = 0;
+

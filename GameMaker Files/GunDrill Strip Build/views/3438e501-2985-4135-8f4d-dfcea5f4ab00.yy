@@ -1,0 +1,33 @@
+{
+    "id": "3438e501-2985-4135-8f4d-dfcea5f4ab00",
+    "modelName": "GMFolder",
+    "mvc": "1.1",
+    "name": "3438e501-2985-4135-8f4d-dfcea5f4ab00",
+    "children": [
+        "8115fdc7-1dad-4b41-b9ae-130cadf3e4d3",
+        "712a5230-1681-433c-b3a0-0513620b1f75",
+        "c8e9d3ee-8b61-4680-8116-9280345b6462",
+        "66b2e6fa-9f36-4f70-b615-9b3463853bfc",
+        "36a96968-3d09-4be1-9c34-f0187fd69e1b",
+        "e1455666-8bb1-40eb-8d4d-a49317ac734a",
+        "01b8339b-80a4-4acd-bf3c-7b2e6b2799a3",
+        "fec35fe5-1a33-4878-b1f5-ff1c5e0b5c5c",
+        "3cfd3a2f-ca98-41f1-ab38-53d5921c5b88",
+        "3b08bb88-b72e-4bee-a3cb-1636691d8305",
+        "c7882909-3104-4ec5-bfe3-da26a9c06bc5",
+        "01b4e21d-5897-40d9-8385-0bd342622db4",
+        "80f0bc73-d62c-472e-b882-5464007e0168",
+        "f67de61b-f9b5-44c0-aec1-299d5b326864",
+        "7d8046c3-1d4f-4bbd-b89d-72ad14a067c7",
+        "5119713f-19e5-4f5e-9a5b-cd743716c5fc",
+        "d657969a-b400-479f-9986-cff8562289ed",
+        "ecae5fac-5d61-47dc-a5fc-eed44398ee4a",
+        "b2a78988-2015-4ac8-bb5a-49ba556d2f06",
+        "11aab728-3d75-4e01-9312-ddcb79c02231",
+        "2b018266-4d65-4402-aec2-ee3641bb3e3e"
+    ],
+    "filterType": "GMScript",
+    "folderName": "Physics",
+    "isDefaultView": false,
+    "localisedFolderName": ""
+}

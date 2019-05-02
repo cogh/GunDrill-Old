@@ -1,0 +1,4 @@
+/// @description temp
+
+dead = false;
+

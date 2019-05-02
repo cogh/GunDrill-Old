@@ -1,0 +1,1632 @@
+Converting GML script: ${project_dir}\scripts\event_run\event_run.gml
+Converted description /// @description event_run(event)/// @function event_run
+/// @param event
+
+Converting GML script: ${project_dir}\scripts\draw_bar\draw_bar.gml
+Converted description /// @description draw_bar(x1,y1,x2,y2,value,max,colour,segment)/// @function draw_bar
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param value
+/// @param max
+/// @param colour
+/// @param segment
+
+Converting GML script: ${project_dir}\scripts\do_thing\do_thing.gml
+Converted description /// @description do_thing(does nothing)/// @function do_thing
+/// @param does nothing
+
+Converting GML script: ${project_dir}\scripts\scr_draw_event\scr_draw_event.gml
+Converted builtin - line 4: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 5: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description scr_draw_event()/// @function scr_draw_event
+
+Converting GML script: ${project_dir}\scripts\scr_draw_minor_event\scr_draw_minor_event.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 8: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description scr_draw_roverstuff()/// @function scr_draw_roverstuff
+
+Converting GML script: ${project_dir}\scripts\draw_rect\draw_rect.gml
+Converted description /// @description draw_rect(x1,y1,x2,y2)/// @function draw_rect
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+
+Converting GML script: ${project_dir}\scripts\scr_decision_add\scr_decision_add.gml
+Converted description /// @description scr_decision_add(name,script,argument)/// @function scr_decision_add
+/// @param name
+/// @param script
+/// @param argument
+
+Converting GML script: ${project_dir}\scripts\scr_spawn_enemy\scr_spawn_enemy.gml
+Converted description /// @description scr_spawn_enemy()/// @function scr_spawn_enemy
+
+Converting GML script: ${project_dir}\scripts\scr_viable_block\scr_viable_block.gml
+Converted description /// @description scr_viable_block(type,range)/// @function scr_viable_block
+/// @param type
+/// @param range
+
+Converting GML script: ${project_dir}\scripts\scr_draw_index\scr_draw_index.gml
+Converted description /// @description scr_draw_index()/// @function scr_draw_index
+
+Converting GML script: ${project_dir}\scripts\scr_restart_game\scr_restart_game.gml
+Converted description /// @description scr_restart_game()/// @function scr_restart_game
+
+Converting GML script: ${project_dir}\scripts\get_dir_h\get_dir_h.gml
+Converted description /// @description get_dir_h(obj);/// @function get_dir_h
+/// @param obj
+
+Converting GML script: ${project_dir}\scripts\scr_sub_manage\scr_sub_manage.gml
+Converted description /// @description scr_sub_manage()/// @function scr_sub_manage
+
+Converting GML script: ${project_dir}\scripts\scr_sub_ini\scr_sub_ini.gml
+Converted description /// @description scr_sub_ini()/// @function scr_sub_ini
+
+Converting GML script: ${project_dir}\scripts\scr_sub_set\scr_sub_set.gml
+Converted description /// @description scr_sub_set(solid,plat,hitbox,hurtbox)/// @function scr_sub_set
+/// @param solid
+/// @param plat
+/// @param hitbox
+/// @param hurtbox
+
+Converting GML script: ${project_dir}\scripts\scr_clamp_in_room\scr_clamp_in_room.gml
+Converted description /// @description scr_clamp_in_room()/// @function scr_clamp_in_room
+
+Converting GML script: ${project_dir}\scripts\scr_floaty_shoot\scr_floaty_shoot.gml
+Converted description /// @description scr_floaty_shoot()/// @function scr_floaty_shoot
+
+Converting GML script: ${project_dir}\scripts\scr_room_change\scr_room_change.gml
+Converted description /// @description scr_room_change(room)/// @function scr_room_change
+/// @param room
+
+Converting GML script: ${project_dir}\scripts\money_change\money_change.gml
+Converted description /// @description money_change(change)/// @function money_change
+/// @param change
+
+Converting GML script: ${project_dir}\scripts\health_change\health_change.gml
+Converted description /// @description health_change(change)/// @function health_change
+/// @param change
+
+Converting GML script: ${project_dir}\scripts\health_max_change\health_max_change.gml
+Converted description /// @description health_max_change(change)/// @function health_max_change
+/// @param change
+
+Converting GML script: ${project_dir}\scripts\gun_change\gun_change.gml
+Converted description /// @description gun_change(change)/// @function gun_change
+/// @param change
+
+Converting GML script: ${project_dir}\scripts\rover_health_change\rover_health_change.gml
+Converted description /// @description rover_health_change(change)/// @function rover_health_change
+/// @param change
+
+Converting GML script: ${project_dir}\scripts\scr_sprite_ini\scr_sprite_ini.gml
+Converted description /// @description scr_sprite_ini()/// @function scr_sprite_ini
+
+Converting GML script: ${project_dir}\scripts\fsm_create\fsm_create.gml
+Converted description /// @description fsm_create(name)/// @function fsm_create
+/// @param name
+
+Converting GML script: ${project_dir}\scripts\scr_gun_dir\scr_gun_dir.gml
+Converted description /// @description scr_gun_dir()/// @function scr_gun_dir
+
+Converting GML script: ${project_dir}\scripts\get_nearest\get_nearest.gml
+Converted description /// @description get_nearest(val)/// @function get_nearest
+/// @param val
+
+Converting GML script: ${project_dir}\scripts\scr_blood_splat\scr_blood_splat.gml
+Converted description /// @description scr_blood_splat()/// @function scr_blood_splat
+
+Converting GML script: ${project_dir}\scripts\scr_gun_yoffset\scr_gun_yoffset.gml
+Converted description /// @description scr_gun_xoffset()/// @function scr_gun_xoffset
+
+Converting GML script: ${project_dir}\scripts\juju_mod_thing\juju_mod_thing.gml
+Converted description /// @description juju_mod_thing()/// @function juju_mod_thing
+
+Converting GML script: ${project_dir}\scripts\scr_gun_ini\scr_gun_ini.gml
+Converted description /// @description scr_gun_ini()/// @function scr_gun_ini
+Converted string - line 4: 'fwd' -> "fwd"
+
+Converting GML script: ${project_dir}\scripts\scr_input\scr_input.gml
+Converted description /// @description scr_input()/// @function scr_input
+
+Converting GML script: ${project_dir}\scripts\scr_input_keyboard\scr_input_keyboard.gml
+Converted description /// @description scr_input()/// @function scr_input
+Converted string - line 5: 'D' -> "D"
+Converted string - line 6: 'W' -> "W"
+Converted string - line 7: 'A' -> "A"
+Converted string - line 8: 'S' -> "S"
+Converted string - line 21: 'K' -> "K"
+Converted string - line 24: 'L' -> "L"
+Converted string - line 27: 'K' -> "K"
+
+Converting GML script: ${project_dir}\scripts\scr_gun_sprite\scr_gun_sprite.gml
+Converted description /// @description scr_gun_sprite()/// @function scr_gun_sprite
+
+Converting GML script: ${project_dir}\scripts\scr_jetpack_dir\scr_jetpack_dir.gml
+Converted description /// @description scr_jetpack_dir()/// @function scr_jetpack_dir
+
+Converting GML script: ${project_dir}\scripts\scr_jetpack_ini\scr_jetpack_ini.gml
+Converted description /// @description scr_jetpack_ini()/// @function scr_jetpack_ini
+Converted string - line 4: 'false' -> "false"
+
+Converting GML script: ${project_dir}\scripts\instance_touching\instance_touching.gml
+Converted description /// @description instance_touching(x_side,y_side,parent)/// @function instance_touching
+/// @param x_side
+/// @param y_side
+/// @param parent
+
+Converting GML script: ${project_dir}\scripts\scr_facing\scr_facing.gml
+Converted description /// @description scr_facing()/// @function scr_facing
+
+Converting GML script: ${project_dir}\scripts\scr_create_camera\scr_create_camera.gml
+Converted description /// @description scr_create_camera()/// @function scr_create_camera
+
+Converting GML script: ${project_dir}\scripts\scr_phys_ini\scr_phys_ini.gml
+Converted description /// @description scr_phys_ini()/// @function scr_phys_ini
+
+Converting GML script: ${project_dir}\scripts\scr_phys_all\scr_phys_all.gml
+Converted description /// @description scr_phys_all()/// @function scr_phys_all
+
+Converting GML script: ${project_dir}\scripts\scr_phys_grav_set\scr_phys_grav_set.gml
+Converted description /// @description scr_phys_grav_set()/// @function scr_phys_grav_set
+
+Converting GML script: ${project_dir}\scripts\scr_phys_drag_set\scr_phys_drag_set.gml
+Converted description /// @description scr_phys_drag_set()/// @function scr_phys_drag_set
+
+Converting GML script: ${project_dir}\scripts\scr_phys_move_set\scr_phys_move_set.gml
+Converted description /// @description scr_phys_speed_set()/// @function scr_phys_speed_set
+
+Converting GML script: ${project_dir}\scripts\scr_phys_jump_apply\scr_phys_jump_apply.gml
+Converted description /// @description scr_phys_jump_apply()/// @function scr_phys_jump_apply
+
+Converting GML script: ${project_dir}\scripts\scr_phys_swim_apply\scr_phys_swim_apply.gml
+Converted description /// @description scr_phys_swim_apply()/// @function scr_phys_swim_apply
+
+Converting GML script: ${project_dir}\scripts\scr_phys_walljump_apply\scr_phys_walljump_apply.gml
+Converted description /// @description scr_phys_walljump_apply()/// @function scr_phys_walljump_apply
+
+Converting GML script: ${project_dir}\scripts\scr_phys_move_apply\scr_phys_move_apply.gml
+Converted description /// @description scr_phys_move_apply()/// @function scr_phys_move_apply
+
+Converting GML script: ${project_dir}\scripts\scr_phys_grav_apply\scr_phys_grav_apply.gml
+Converted description /// @description scr_phys_grav_apply()/// @function scr_phys_grav_apply
+
+Converting GML script: ${project_dir}\scripts\scr_phys_collide\scr_phys_collide.gml
+Converted description /// @description scr_phys_collide()/// @function scr_phys_collide
+
+Converting GML script: ${project_dir}\scripts\scr_phys_collide_enemy\scr_phys_collide_enemy.gml
+Converted description /// @description scr_phys_collide_enemy()/// @function scr_phys_collide_enemy
+
+Converting GML script: ${project_dir}\scripts\scr_phys_drag_apply\scr_phys_drag_apply.gml
+Converted description /// @description scr_phys_drag_apply()/// @function scr_phys_drag_apply
+
+Converting GML script: ${project_dir}\scripts\scr_phys_clip_fix\scr_phys_clip_fix.gml
+Converted description /// @description scr_phys_clip_fix()/// @function scr_phys_clip_fix
+
+Converting GML script: ${project_dir}\scripts\scr_phys_slope_down\scr_phys_slope_down.gml
+Converted description /// @description scr_phys_slope_down()/// @function scr_phys_slope_down
+
+Converting GML script: ${project_dir}\scripts\scr_jetpack_boost\scr_jetpack_boost.gml
+Converted description /// @description scr_jetpack_boost()/// @function scr_jetpack_boost
+
+Converting GML script: ${project_dir}\scripts\scr_touching\scr_touching.gml
+Converted description /// @description scr_touching()/// @function scr_touching
+
+Converting GML script: ${project_dir}\scripts\scr_jetpack_boost_old\scr_jetpack_boost_old.gml
+Converted description /// @description scr_jetpack_boost()/// @function scr_jetpack_boost
+
+Converting GML script: ${project_dir}\scripts\scr_phys_ini_old\scr_phys_ini_old.gml
+Converted description /// @description scr_phys_ini()/// @function scr_phys_ini
+
+Converting GML script: ${project_dir}\scripts\scr_states_ini\scr_states_ini.gml
+Converted description /// @description scr_states_ini()/// @function scr_states_ini
+Converted string - line 10: 'ground' -> "ground"
+Converted string - line 11: 'air' -> "air"
+Converted string - line 12: 'wall' -> "wall"
+Converted string - line 13: 'ladder' -> "ladder"
+Converted string - line 14: 'dead' -> "dead"
+Converted string - line 17: 'inactive' -> "inactive"
+Converted string - line 18: 'idle' -> "idle"
+Converted string - line 19: 'active' -> "active"
+Converted string - line 22: 'idle' -> "idle"
+Converted string - line 23: 'idle' -> "idle"
+Converted string - line 24: 'shoot' -> "shoot"
+Converted string - line 25: 'drill' -> "drill"
+Converted string - line 26: 'burst' -> "burst"
+Converted string - line 29: 'ground' -> "ground"
+
+Converting GML script: ${project_dir}\scripts\scr_state_set\scr_state_set.gml
+Converted description /// @description scr_state_set(state)/// @function scr_state_set
+/// @param state
+
+Converting GML script: ${project_dir}\scripts\st_plr_wall\st_plr_wall.gml
+Converted description /// @description st_plr_wall()/// @function st_plr_wall
+Converted string - line 30: 'air' -> "air"
+Converted string - line 34: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_plr_air\st_plr_air.gml
+Converted description /// @description st_plr_air()/// @function st_plr_air
+Converted string - line 30: 'wall' -> "wall"
+Converted string - line 33: 'ground' -> "ground"
+Converted string - line 36: 'dead' -> "dead"
+Converted string - line 41: 'ladder' -> "ladder"
+
+Converting GML script: ${project_dir}\scripts\st_plr_ladder\st_plr_ladder.gml
+Converted description /// @description st_plr_ladder()/// @function st_plr_ladder
+Converted string - line 39: 'air' -> "air"
+Converted string - line 40: 'air' -> "air"
+Converted string - line 42: 'wall' -> "wall"
+Converted string - line 45: 'ground' -> "ground"
+Converted string - line 48: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_plr_dead\st_plr_dead.gml
+Converted description /// @description st_plr_dead()/// @function st_plr_dead
+
+Converting GML script: ${project_dir}\scripts\st_plr_ground\st_plr_ground.gml
+Converted description /// @description st_plr_ground()/// @function st_plr_ground
+Converted string - line 30: 'air' -> "air"
+Converted string - line 34: 'ladder' -> "ladder"
+Converted string - line 39: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_gun_inactive\st_gun_inactive.gml
+Converted description /// @description st_gun_inactive()/// @function st_gun_inactive
+
+Converting GML script: ${project_dir}\scripts\st_gun_idle\st_gun_idle.gml
+Converted description /// @description st_gun_inactive()/// @function st_gun_inactive
+
+Converting GML script: ${project_dir}\scripts\st_gun_shoot\st_gun_shoot.gml
+Converted description /// @description st_gun_active()/// @function st_gun_active
+
+Converting GML script: ${project_dir}\scripts\st_gun_drill\st_gun_drill.gml
+Converted description /// @description st_gun_active()/// @function st_gun_active
+
+Converting GML script: ${project_dir}\scripts\st_gun_burst\st_gun_burst.gml
+Converted description /// @description st_gun_burst()/// @function st_gun_burst
+
+Converting GML script: ${project_dir}\scripts\st_jetpack_inactive\st_jetpack_inactive.gml
+Converted description /// @description st_jetpack_inactive()/// @function st_jetpack_inactive
+
+Converting GML script: ${project_dir}\scripts\st_jetpack_idle\st_jetpack_idle.gml
+Converted description /// @description st_jetpack_idle()/// @function st_jetpack_idle
+
+Converting GML script: ${project_dir}\scripts\st_jetpack_active\st_jetpack_active.gml
+Converted description /// @description st_jetpack_active()/// @function st_jetpack_active
+
+Converting GML script: ${project_dir}\scripts\st_boss_inactive\st_boss_inactive.gml
+Converted description /// @description st_boss_inactive();/// @function st_boss_inactive
+Converted string - line 21: 'wake' -> "wake"
+
+Converting GML script: ${project_dir}\scripts\st_boss_wake\st_boss_wake.gml
+Converted description /// @description st_boss_wake();/// @function st_boss_wake
+Converted string - line 25: 'idle' -> "idle"
+Converted string - line 30: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_boss_idle\st_boss_idle.gml
+Converted description /// @description st_boss_wake();/// @function st_boss_wake
+Converted string - line 19: 'antic' -> "antic"
+Converted string - line 30: 'flip' -> "flip"
+Converted string - line 36: 'flip' -> "flip"
+Converted string - line 42: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_boss_antic\st_boss_antic.gml
+Converted description /// @description st_boss_wake();/// @function st_boss_wake
+Converted string - line 25: 'roll' -> "roll"
+Converted string - line 30: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_boss_roll\st_boss_roll.gml
+Converted description /// @description st_boss_roll();/// @function st_boss_roll
+Converted string - line 39: 'bump' -> "bump"
+Converted string - line 44: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_boss_bump\st_boss_bump.gml
+Converted description /// @description st_boss_bump();/// @function st_boss_bump
+Converted string - line 29: 'return' -> "return"
+Converted string - line 34: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_boss_return\st_boss_return.gml
+Converted description /// @description st_boss_return();/// @function st_boss_return
+Converted string - line 35: 'idle' -> "idle"
+Converted string - line 40: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_boss_flip\st_boss_flip.gml
+Converted description /// @description st_boss_hit();/// @function st_boss_hit
+Converted string - line 25: 'flipped' -> "flipped"
+
+Converting GML script: ${project_dir}\scripts\st_boss_flipped\st_boss_flipped.gml
+Converted description /// @description st_boss_flipped();/// @function st_boss_flipped
+Converted string - line 18: 'wake' -> "wake"
+Converted string - line 28: 'getup' -> "getup"
+Converted string - line 33: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\scripts\st_boss_getup\st_boss_getup.gml
+Converted description /// @description st_boss_getup();/// @function st_boss_getup
+Converted string - line 25: 'roll' -> "roll"
+
+Converting GML script: ${project_dir}\scripts\st_boss_dead\st_boss_dead.gml
+Converted description /// @description st_boss_dead();/// @function st_boss_dead
+
+Converting GML script: ${project_dir}\scripts\st_example_1\st_example_1.gml
+Converted description /// @description st_example_1()/// @function st_example_1
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_example_2\st_example_2.gml
+Converted description /// @description st_example_2()/// @function st_example_2
+Converted string - line 26: 'state_3' -> "state_3"
+
+Converting GML script: ${project_dir}\scripts\st_example_3\st_example_3.gml
+Converted description /// @description st_example_3()/// @function st_example_3
+Converted string - line 26: 'state_1' -> "state_1"
+
+Converting GML script: ${project_dir}\scripts\st_stationary\st_stationary.gml
+Converted description /// @description st_example_1()/// @function st_example_1
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_stationary_idle\st_stationary_idle.gml
+Converted description /// @description st_stationary_idle()/// @function st_stationary_idle
+
+Converting GML script: ${project_dir}\scripts\st_walker\st_walker.gml
+Converted description /// @description st_()/// @function st_
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_walker_idle\st_walker_idle.gml
+Converted description /// @description st_walker_idle()/// @function st_walker_idle
+Converted string - line 26: 'move' -> "move"
+
+Converting GML script: ${project_dir}\scripts\st_walker_move\st_walker_move.gml
+Converted description /// @description st_walker_move()/// @function st_walker_move
+Converted string - line 35: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\scripts\st_riser\st_riser.gml
+Converted description /// @description st_riser()/// @function st_riser
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_riser_idle\st_riser_idle.gml
+Converted description /// @description st_riser_idle()/// @function st_riser_idle
+Converted string - line 27: 'rise' -> "rise"
+Converted string - line 30: 'sink' -> "sink"
+
+Converting GML script: ${project_dir}\scripts\st_riser_rise\st_riser_rise.gml
+Converted description /// @description st_riser_rise()/// @function st_riser_rise
+Converted string - line 32: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\scripts\st_riser_sink\st_riser_sink.gml
+Converted description /// @description st_riser_rise()/// @function st_riser_rise
+Converted string - line 32: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\scripts\st_ducker\st_ducker.gml
+Converted description /// @description st_ducker()/// @function st_ducker
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_ducker_idle\st_ducker_idle.gml
+Converted description /// @description st_ducker_idle()/// @function st_ducker_idle
+Converted string - line 27: 'duck' -> "duck"
+Converted string - line 30: 'rise' -> "rise"
+
+Converting GML script: ${project_dir}\scripts\st_ducker_duck\st_ducker_duck.gml
+Converted description /// @description st_ducker_duck()/// @function st_ducker_duck
+Converted string - line 32: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\scripts\st_ducker_rise\st_ducker_rise.gml
+Converted description /// @description st_ducker_rise()/// @function st_ducker_rise
+Converted string - line 32: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\scripts\st_faller\st_faller.gml
+Converted description /// @description st_faller()/// @function st_faller
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_faller_idle\st_faller_idle.gml
+Converted description /// @description st_faller_idle()/// @function st_faller_idle
+Converted string - line 26: 'antic' -> "antic"
+
+Converting GML script: ${project_dir}\scripts\st_faller_antic\st_faller_antic.gml
+Converted description /// @description st_faller_antic()/// @function st_faller_antic
+Converted string - line 29: 'fall' -> "fall"
+
+Converting GML script: ${project_dir}\scripts\st_faller_fall\st_faller_fall.gml
+Converted description /// @description st_faller_fall()/// @function st_faller_fall
+Converted string - line 34: 'fallen' -> "fallen"
+
+Converting GML script: ${project_dir}\scripts\st_faller_fallen\st_faller_fallen.gml
+Converted description /// @description st_faller_fallen()/// @function st_faller_fallen
+
+Converting GML script: ${project_dir}\scripts\st_jumper\st_jumper.gml
+Converted description /// @description st_jumper()/// @function st_jumper
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_jumper_idle\st_jumper_idle.gml
+Converted description /// @description st_jumper_idle()/// @function st_jumper_idle
+Converted string - line 26: 'antic' -> "antic"
+
+Converting GML script: ${project_dir}\scripts\st_jumper_antic\st_jumper_antic.gml
+Converted description /// @description st_jumper_antic()/// @function st_jumper_antic
+Converted string - line 26: 'air' -> "air"
+
+Converting GML script: ${project_dir}\scripts\st_jumper_air\st_jumper_air.gml
+Converted description /// @description st_jumper_air()/// @function st_jumper_air
+Converted string - line 35: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\scripts\st_floater\st_floater.gml
+Converted description /// @description st_floater()/// @function st_floater
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_floater_idle\st_floater_idle.gml
+Converted description /// @description st_floater_idle()/// @function st_floater_idle
+
+Converting GML script: ${project_dir}\scripts\st_waver\st_waver.gml
+Converted description /// @description st_waver()/// @function st_waver
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_swinger\st_swinger.gml
+Converted description /// @description st_swinger()/// @function st_swinger
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_follower\st_follower.gml
+Converted description /// @description st_follower()/// @function st_follower
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_liner\st_liner.gml
+Converted description /// @description st_liner()/// @function st_liner
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_ponger\st_ponger.gml
+Converted description /// @description st_ponger()/// @function st_ponger
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_ponger_move\st_ponger_move.gml
+Converted description /// @description st_ponger_move()/// @function st_ponger_move
+
+Converting GML script: ${project_dir}\scripts\st_geobound\st_geobound.gml
+Converted description /// @description st_ponger()/// @function st_ponger
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_geobound_idle\st_geobound_idle.gml
+Converted description /// @description st_ponger()/// @function st_ponger
+
+Converting GML script: ${project_dir}\scripts\st_tethered\st_tethered.gml
+Converted description /// @description st_tethered()/// @function st_tethered
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_swooper\st_swooper.gml
+Converted description /// @description st_swooper()/// @function st_swooper
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_swooper_idle\st_swooper_idle.gml
+Converted description /// @description st_swooper_idle()/// @function st_swooper_idle
+Converted string - line 26: 'swoop' -> "swoop"
+
+Converting GML script: ${project_dir}\scripts\st_swooper_swoop\st_swooper_swoop.gml
+Converted description /// @description st_swooper_swoop()/// @function st_swooper_swoop
+Converted string - line 38: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\scripts\st_sticky\st_sticky.gml
+Converted description /// @description st_sticky()/// @function st_sticky
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_sticky_move\st_sticky_move.gml
+Converted description /// @description st_sticky()/// @function st_sticky
+
+Converting GML script: ${project_dir}\scripts\st_sticky_fall\st_sticky_fall.gml
+Converted description /// @description st_sticky()/// @function st_sticky
+Converted string - line 26: 'state_2' -> "state_2"
+
+Converting GML script: ${project_dir}\scripts\st_spike_idle\st_spike_idle.gml
+Converted description /// @description st_spike_idle()/// @function st_spike_idle
+
+Converting GML script: ${project_dir}\scripts\in_TPS\in_TPS.gml
+Converted description /// @description in_TPS()/// @function in_TPS
+
+Converting GML script: ${project_dir}\scripts\angle_to_180\angle_to_180.gml
+Converted description /// @description angle_to_180(angle)/// @function angle_to_180
+/// @param angle
+
+Converting GML script: ${project_dir}\scripts\angle_to_360\angle_to_360.gml
+Converted description /// @description angle_to_360(angle,facing)/// @function angle_to_360
+/// @param angle
+/// @param facing
+
+Converting GML script: ${project_dir}\scripts\TPS\TPS.gml
+Converted description /// @description TPS(speed)/// @function TPS
+/// @param speed
+
+Converting GML script: ${project_dir}\scripts\round_to\round_to.gml
+Converted description /// @description round_to(val,factor)/// @function round_to
+/// @param val
+/// @param factor
+
+Converting GML script: ${project_dir}\scripts\cycle\cycle.gml
+Converted description /// @description cycle(value, min, max)/// @function cycle
+/// @param value
+/// @param  min
+/// @param  max
+
+Converting GML script: ${project_dir}\scripts\collision_rectangle_list\collision_rectangle_list.gml
+Converted description /// @description collision_rectangle_list(x1,y1,x2,y2,obj)/// @function collision_rectangle_list
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param obj
+
+Converting GML script: ${project_dir}\scripts\collision_line_first\collision_line_first.gml
+Converted description /// @description  collision_line_first(x1,y1,x2,y2,object,prec,notme)/// @function  collision_line_first
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param object
+/// @param prec
+/// @param notme
+
+Converting GML script: ${project_dir}\scripts\scr_adj_free\scr_adj_free.gml
+Converted description /// @description scr_adj_free()/// @function scr_adj_free
+
+Converting GML script: ${project_dir}\scripts\scr_check_adj\scr_check_adj.gml
+Converted description /// @description scr_check_adj(id,x,y)/// @function scr_check_adj
+/// @param id
+/// @param x
+/// @param y
+
+Converting GML script: ${project_dir}\scripts\scr_adj_free_old\scr_adj_free_old.gml
+Converted description /// @description scr_adj_free()/// @function scr_adj_free
+
+Converting GML script: ${project_dir}\scripts\collision_line_length\collision_line_length.gml
+Converted description /// @description  collision_line_length(x1,y1,x2,y2,object,prec,notme)/// @function  collision_line_length
+/// @param x1
+/// @param y1
+/// @param x2
+/// @param y2
+/// @param object
+/// @param prec
+/// @param notme
+
+Converting GML script: ${project_dir}\scripts\scr_gun_xoffset\scr_gun_xoffset.gml
+Converted description /// @description scr_gun_xoffset()/// @function scr_gun_xoffset
+
+Converting GML script: ${project_dir}\scripts\scr_autotile\scr_autotile.gml
+Converted description /// @description scr_autotile()/// @function scr_autotile
+
+Converting GML script: ${project_dir}\scripts\scr_jetpack_sprite\scr_jetpack_sprite.gml
+Converted description /// @description scr_jetpack_sprite()/// @function scr_jetpack_sprite
+
+Converting GML script: ${project_dir}\scripts\scr_autotile_more\scr_autotile_more.gml
+Converted description /// @description scr_autotile()/// @function scr_autotile
+
+Converting GML script: ${project_dir}\scripts\scr_draw_sprite\scr_draw_sprite.gml
+Converted description /// @description scr_draw_sprite()/// @function scr_draw_sprite
+
+Converting GML script: ${project_dir}\scripts\scr_process_damage\scr_process_damage.gml
+Converted description /// @description scr_process_damage()/// @function scr_process_damage
+Converted string - line 10: 'damage' -> "damage"
+
+Converting GML script: ${project_dir}\scripts\scr_send_damage\scr_send_damage.gml
+Converted description /// @description scr_send_damage(target,damage,dir)/// @function scr_send_damage
+/// @param target
+/// @param damage
+/// @param dir
+Converted string - line 14: 'damage' -> "damage"
+Converted string - line 15: 'direction' -> "direction"
+
+Converting GML script: ${project_dir}\scripts\scr_shoot\scr_shoot.gml
+Converted description /// @description scr_shoot(obj,dir,speed)/// @function scr_shoot
+/// @param obj
+/// @param dir
+/// @param speed
+
+Converting GML script: ${project_dir}\scripts\scr_shoot_auto\scr_shoot_auto.gml
+Converted description /// @description Shoot(obj,dir,speed)/// @function Shoot
+/// @param obj
+/// @param dir
+/// @param speed
+
+Converting GML script: ${project_dir}\scripts\scr_switch_dir\scr_switch_dir.gml
+Converted description /// @description scr_switch_dir(h,v)/// @function scr_switch_dir
+/// @param h
+/// @param v
+
+Converting GML script: ${project_dir}\scripts\scr_collide_h\scr_collide_h.gml
+Converted description /// @description scr_collide_h()/// @function scr_collide_h
+
+Converting GML script: ${project_dir}\scripts\scr_collide_v\scr_collide_v.gml
+Converted description /// @description scr_collide_v()/// @function scr_collide_v
+
+Converting GML script: ${project_dir}\scripts\scr_apply_h\scr_apply_h.gml
+Converted description /// @description scr_apply_h()/// @function scr_apply_h
+
+Converting GML script: ${project_dir}\scripts\scr_apply_v\scr_apply_v.gml
+Converted description /// @description scr_apply_v()/// @function scr_apply_v
+
+Converting GML script: ${project_dir}\scripts\scr_apply_force\scr_apply_force.gml
+Converted description /// @description scr_apply_force(speed,dir)/// @function scr_apply_force
+/// @param speed
+/// @param dir
+
+Converting GML script: ${project_dir}\scripts\scr_apply_velocity\scr_apply_velocity.gml
+Converted description /// @description scr_apply_velocity(speed,dir)/// @function scr_apply_velocity
+/// @param speed
+/// @param dir
+
+Converting GML script: ${project_dir}\scripts\scr_set_velocity\scr_set_velocity.gml
+Converted description /// @description scr_set_velocity(speed,dir)/// @function scr_set_velocity
+/// @param speed
+/// @param dir
+
+Converting GML script: ${project_dir}\scripts\scr_apply_force_x\scr_apply_force_x.gml
+Converted description /// @description scr_apply_force_x(amount)/// @function scr_apply_force_x
+/// @param amount
+
+Converting GML script: ${project_dir}\scripts\scr_decay_h\scr_decay_h.gml
+Converted description /// @description scr_decay_h(amount)/// @function scr_decay_h
+/// @param amount
+
+Converting GML script: ${project_dir}\scripts\scr_decay_v\scr_decay_v.gml
+Converted description /// @description scr_decay_v(amount)/// @function scr_decay_v
+/// @param amount
+
+Converting GML script: ${project_dir}\scripts\scr_touch_damage\scr_touch_damage.gml
+Converted description /// @description scr_touch_damage()/// @function scr_touch_damage
+
+Converting GML script: ${project_dir}\scripts\scr_die\scr_die.gml
+Converted description /// @description scr_die()/// @function scr_die
+
+Converting GML script: ${project_dir}\scripts\scr_apply_speed\scr_apply_speed.gml
+Converted description /// @description scr_apply_speed(hsp,vsp)/// @function scr_apply_speed
+/// @param hsp
+/// @param vsp
+
+Converting GML script: ${project_dir}\scripts\draw_shake\draw_shake.gml
+Converted description /// @description draw_shake(strength,colour)/// @function draw_shake
+/// @param strength
+/// @param colour
+
+Converting GML script: ${project_dir}\scripts\draw_damage_count\draw_damage_count.gml
+Converted description /// @description draw_damage_count()/// @function draw_damage_count
+
+Converting GML script: ${project_dir}\scripts\collision_adj\collision_adj.gml
+Converted description /// @description collision_adj(x,y)/// @function collision_adj
+/// @param x
+/// @param y
+
+Font f_small has been converted to font family Courier New (Regular) - Font has been regenerated, small inconsistencies may occur
+Converting GML script: ${project_dir}\objects\object253\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\object254\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\object255\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_player\Create_0.gml
+Converted description /// @description  Create event
+
+Converting GML script: ${project_dir}\objects\obj_player\Step_0.gml
+Converted description /// @description  Step event
+
+Converting GML script: ${project_dir}\objects\obj_player\Draw_0.gml
+Converted description /// @description  Draw event
+
+Converting GML script: ${project_dir}\objects\obj_flag\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_gun\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_jetpack\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_no_entry\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_room_next\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_win_plat\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_win_plat\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_platform_h\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 4: 'left' -> "left"
+
+Converting GML script: ${project_dir}\objects\obj_platform_h\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 5: 'left' -> "left"
+Converted string - line 10: 'right' -> "right"
+Converted string - line 13: 'right' -> "right"
+Converted string - line 18: 'left' -> "left"
+
+Converting GML script: ${project_dir}\objects\obj_platform_v\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 4: 'up' -> "up"
+
+Converting GML script: ${project_dir}\objects\obj_platform_v\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 4: 'up' -> "up"
+Converted string - line 9: 'down' -> "down"
+Converted string - line 12: 'down' -> "down"
+Converted string - line 17: 'up' -> "up"
+
+Converting GML script: ${project_dir}\objects\obj_crumble_block\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_crumble_block\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_gemblock\Create_0.gml
+Converted description /// @description temp
+
+Converting GML script: ${project_dir}\objects\obj_breakable\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_breakable\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_solid\Create_0.gml
+Converted description /// @description  Sprite
+
+Converting GML script: ${project_dir}\objects\obj_solid\Alarm_1.gml
+Converted description /// @description  Delete if inside
+
+Converting GML script: ${project_dir}\objects\obj_solid\Alarm_0.gml
+Converted description /// @description  Autotile again
+
+Converting GML script: ${project_dir}\objects\obj_springblock\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 3: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_springblock\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 4: 'idle' -> "idle"
+Converted string - line 12: 'bounce' -> "bounce"
+Converted string - line 15: 'bounce' -> "bounce"
+Converted string - line 18: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_spike_d\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 64: 'idle' -> "idle"
+Converted string - line 65: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_spike_d\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_spike_d\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_spike_r\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 64: 'idle' -> "idle"
+Converted string - line 65: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_spike_r\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_spike_r\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_spike\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 64: 'idle' -> "idle"
+Converted string - line 65: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_spike\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_spike\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_spike_l\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 64: 'idle' -> "idle"
+Converted string - line 65: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_spike_l\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_spike_l\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_water\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_water\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_example_enemy\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 64: 'state_1' -> "state_1"
+Converted string - line 65: 'state_2' -> "state_2"
+Converted string - line 66: 'state_3' -> "state_3"
+Converted string - line 67: 'state_1' -> "state_1"
+
+Converting GML script: ${project_dir}\objects\obj_example_enemy\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_example_enemy\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_spike_u\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 64: 'idle' -> "idle"
+Converted string - line 65: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_spike_u\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_spike_u\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_stationary\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_stationary\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_stationary\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_walker\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'move' -> "move"
+Converted string - line 62: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_walker\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_walker\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_riser\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'sink' -> "sink"
+Converted string - line 62: 'rise' -> "rise"
+Converted string - line 63: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_riser\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_riser\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_ducker\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'duck' -> "duck"
+Converted string - line 62: 'rise' -> "rise"
+Converted string - line 63: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_ducker\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_ducker\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_faller\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'antic' -> "antic"
+Converted string - line 62: 'fall' -> "fall"
+Converted string - line 63: 'fallen' -> "fallen"
+Converted string - line 64: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_faller\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_faller\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_jumper\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'antic' -> "antic"
+Converted string - line 62: 'air' -> "air"
+Converted string - line 63: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_jumper\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_jumper\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_floater\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 61: 'idle' -> "idle"
+Converted string - line 62: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_floater\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_floater\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_sticky\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 62: 'move' -> "move"
+Converted string - line 63: 'fall' -> "fall"
+Converted string - line 64: 'move' -> "move"
+
+Converting GML script: ${project_dir}\objects\obj_sticky\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_sticky\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_waver\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'state_1' -> "state_1"
+Converted string - line 61: 'state_2' -> "state_2"
+Converted string - line 62: 'state_3' -> "state_3"
+Converted string - line 63: 'state_1' -> "state_1"
+
+Converting GML script: ${project_dir}\objects\obj_waver\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_waver\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_swinger\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'state_1' -> "state_1"
+Converted string - line 61: 'state_2' -> "state_2"
+Converted string - line 62: 'state_3' -> "state_3"
+Converted string - line 63: 'state_1' -> "state_1"
+
+Converting GML script: ${project_dir}\objects\obj_swinger\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_swinger\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_follower\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'state_1' -> "state_1"
+Converted string - line 61: 'state_2' -> "state_2"
+Converted string - line 62: 'state_3' -> "state_3"
+Converted string - line 63: 'state_1' -> "state_1"
+
+Converting GML script: ${project_dir}\objects\obj_follower\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_follower\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_liner\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'state_1' -> "state_1"
+Converted string - line 61: 'state_2' -> "state_2"
+Converted string - line 62: 'state_3' -> "state_3"
+Converted string - line 63: 'state_1' -> "state_1"
+
+Converting GML script: ${project_dir}\objects\obj_liner\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_liner\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_ponger\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'move' -> "move"
+Converted string - line 61: 'move' -> "move"
+
+Converting GML script: ${project_dir}\objects\obj_ponger\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_ponger\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_geobound\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_geobound\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_geobound\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_tethered\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'state_1' -> "state_1"
+Converted string - line 61: 'state_2' -> "state_2"
+Converted string - line 62: 'state_3' -> "state_3"
+Converted string - line 63: 'state_1' -> "state_1"
+
+Converting GML script: ${project_dir}\objects\obj_tethered\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_tethered\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_swooper\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 60: 'idle' -> "idle"
+Converted string - line 61: 'swoop' -> "swoop"
+Converted string - line 62: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_swooper\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_swooper\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_commands\Step_0.gml
+Converted string - line 1: 'R' -> "R"
+Converted string - line 5: 'P' -> "P"
+Converted string - line 9: 'M' -> "M"
+
+Converting GML script: ${project_dir}\objects\obj_gen\Create_0.gml
+Converted builtin - line 5: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 5: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 6: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Initialise World
+
+Converting GML script: ${project_dir}\objects\obj_gen\Step_0.gml
+Converted description /// @description  Generate while moving
+
+Converting GML script: ${project_dir}\objects\obj_data\Create_0.gml
+Converted description /// @description Notes
+Converted string - line 20: 'overworld' -> "overworld"
+Converted string - line 21: 'none' -> "none"
+Converted string - line 29: 'mining' -> "mining"
+
+Converting GML script: ${project_dir}\objects\obj_data\Alarm_0.gml
+Converted description /// @description  ded
+
+Converting GML script: ${project_dir}\objects\obj_data\Other_5.gml
+Converted description /// @description  Room-end
+Converted string - line 5: 'refuge' -> "refuge"
+Converted string - line 8: 'mining' -> "mining"
+
+Converting GML script: ${project_dir}\objects\obj_data\Other_4.gml
+Converted description /// @description  Room start
+
+Converting GML script: ${project_dir}\objects\obj_gui\Draw_0.gml
+Converted builtin - line 22: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 24: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 23: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 24: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 23: view_hview -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 25: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw GUI
+Converted string - line 55: 'Ore: ' -> "Ore: "
+
+Converting GML script: ${project_dir}\objects\obj_view\Alarm_0.gml
+Converted description /// @description  Reset window stuff
+
+Converting GML script: ${project_dir}\objects\obj_view\Other_4.gml
+Converted builtin - line 27: view_wview[0] = view_width -> __view_set( e__VW.WView, 0, view_width )
+Converted builtin - line 28: view_hview[0] = view_height -> __view_set( e__VW.HView, 0, view_height )
+Converted description /// @description  Room start
+
+Converting GML script: ${project_dir}\objects\obj_instance_control\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_instance_control\Step_0.gml
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 10: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 10: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 9: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 10: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 9: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted builtin - line 10: view_hview[0] -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_camera\Create_0.gml
+Converted builtin - line 4: view_object = id -> __view_set( e__VW.Object, 0, id )
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_camera\Step_0.gml
+Converted builtin - line 45: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 41: view_xview[0] = x - (view_wview[0] / 2) + shake_x -> __view_set( e__VW.XView, 0, x - (view_wview[0] / 2) + shake_x )
+Converted builtin - line 46: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 42: view_yview[0] = y - (view_hview[0] / 2) + shake_y -> __view_set( e__VW.YView, 0, y - (view_hview[0] / 2) + shake_y )
+Converted builtin - line 45: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 46: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description Camera movement and shake
+Converted builtin - line 45: view_xview[0] = clamp(__view_get( e__VW.XView, 0 ),0,room_width-__view_get( e__VW.WView, 0 -> __view_set( e__VW.XView, 0, clamp(__view_get( e__VW.XView, 0 ),0,room_width-__view_get( e__VW.WView, 0 )
+Converted builtin - line 46: view_yview[0] = clamp(__view_get( e__VW.YView, 0 ),0,room_height-__view_get( e__VW.HView, 0 -> __view_set( e__VW.YView, 0, clamp(__view_get( e__VW.YView, 0 ),0,room_height-__view_get( e__VW.HView, 0 )
+Converted builtin - line 41: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 42: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_camera\Other_4.gml
+Converted description /// @description  Room Start
+
+Converting GML script: ${project_dir}\objects\obj_room\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_room\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_room\Other_4.gml
+Converted description /// @description  Room Start
+
+Converting GML script: ${project_dir}\objects\obj_room\Draw_0.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 4: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 4: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw
+Converted string - line 10: 'r_' -> "r_"
+Converted string - line 10: '' -> ""
+Converted string - line 11: '_' -> "_"
+Converted string - line 11: ' ' -> " "
+
+Converting GML script: ${project_dir}\objects\obj_game_over\Alarm_0.gml
+Converted description /// @description  Restart game
+
+Converting GML script: ${project_dir}\objects\obj_game_over\Draw_0.gml
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw
+Converted string - line 7: 'Retry...?' -> "Retry...?"
+
+Converting GML script: ${project_dir}\objects\obj_go_to_boss\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_transition_open\Create_0.gml
+Converted builtin - line 1: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_transition_open\Draw_0.gml
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw lines
+
+Converting GML script: ${project_dir}\objects\obj_transition_close\Step_0.gml
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 3: view_hview -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}\objects\obj_transition_close\Draw_0.gml
+Converted builtin - line 5: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 8: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 8: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw lines
+
+Converting GML script: ${project_dir}\objects\obj_pedestal\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_item\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 4: 'health' -> "health"
+Converted string - line 4: 'health' -> "health"
+Converted string - line 4: 'health' -> "health"
+Converted string - line 4: 'suit' -> "suit"
+Converted string - line 4: 'gun' -> "gun"
+Converted string - line 8: 'health' -> "health"
+Converted string - line 11: 'suit' -> "suit"
+Converted string - line 14: 'gun' -> "gun"
+Converted string - line 21: 'health' -> "health"
+Converted string - line 24: 'suit' -> "suit"
+Converted string - line 27: 'gun' -> "gun"
+
+Converting GML script: ${project_dir}\objects\obj_item\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 7: 'health' -> "health"
+Converted string - line 12: 'suit' -> "suit"
+Converted string - line 17: 'gun' -> "gun"
+
+Converting GML script: ${project_dir}\objects\obj_item\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_particle_jump\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_particle_land\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_drillsparks\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_enemy_shot\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_enemy_shot\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_cannonball\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 6: 'roll' -> "roll"
+
+Converting GML script: ${project_dir}\objects\obj_cannonball\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 7: 'roll' -> "roll"
+Converted string - line 13: 'dead' -> "dead"
+Converted string - line 22: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\objects\obj_run_timer\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_run_timer\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_win_timer\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 6: 'm ' -> "m "
+Converted string - line 6: 's' -> "s"
+
+Converting GML script: ${project_dir}\objects\obj_win_timer\Draw_0.gml
+Converted builtin - line 7: view_wview -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 7: view_hview -> __view_get( e__VW.HView, 0 )
+Converted description /// @description  Draw
+Converted string - line 7: 'Your time: ' -> "Your time: "
+
+Converting GML script: ${project_dir}\objects\obj_water2\Create_0.gml
+Converted string - line 1: 'still' -> "still"
+
+Converting GML script: ${project_dir}\objects\obj_water2\Step_0.gml
+Converted string - line 1: 'still' -> "still"
+Converted string - line 4: 'splashstart' -> "splashstart"
+Converted string - line 8: 'splashstart' -> "splashstart"
+Converted string - line 12: 'splash' -> "splash"
+Converted string - line 15: 'splash' -> "splash"
+Converted string - line 17: 'still' -> "still"
+
+Converting GML script: ${project_dir}\objects\obj_chunk\Create_0.gml
+Converted description /// @description  Create chunk
+
+Converting GML script: ${project_dir}\objects\obj_chunk_breakable\Create_0.gml
+Converted description /// @description  Create grid
+
+Converting GML script: ${project_dir}\objects\obj_chunk_solid\Create_0.gml
+Converted description /// @description  Create grid
+
+Converting GML script: ${project_dir}\objects\obj_chunk_surface\Create_0.gml
+Converted description /// @description  Create grid
+
+Converting GML script: ${project_dir}\objects\obj_block_spawner\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_block_spawner\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_burst_particle\Create_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_burst_particle\Step_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_burst_particle\Draw_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_ore\Create_0.gml
+Converted description /// @description  Collectable
+
+Converting GML script: ${project_dir}\objects\obj_ore\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_ore\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_piece\Draw_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_platform\Create_0.gml
+Converted description /// @description  Temp
+Converted string - line 10: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_platform\Step_0.gml
+Converted string - line 27: 'idle' -> "idle"
+Converted string - line 33: 'move' -> "move"
+Converted string - line 37: 'move' -> "move"
+Converted string - line 51: 'idle' -> "idle"
+Converted string - line 57: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_platform\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_platform_backup\Create_0.gml
+Converted description /// @description  Temp
+Converted string - line 10: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_platform_backup\Step_0.gml
+Converted string - line 27: 'idle' -> "idle"
+Converted string - line 33: 'move' -> "move"
+Converted string - line 37: 'move' -> "move"
+Converted string - line 51: 'idle' -> "idle"
+Converted string - line 57: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_platform_backup\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_shot\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_shot\Alarm_1.gml
+Converted description /// @description  Set sprite and spread
+
+Converting GML script: ${project_dir}\objects\obj_shot\Step_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_shot_splash_invul\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_shot_splash_invul\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_shot_splash_dir\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_shot_splash_dir\Alarm_0.gml
+Converted description /// @description  Sprite
+
+Converting GML script: ${project_dir}\objects\obj_shot_splash_dir\Step_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_train\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_train\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_train_door\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_train_door\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 22: 'dismiss' -> "dismiss"
+
+Converting GML script: ${project_dir}\objects\obj_train_door\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_train_platform\Create_0.gml
+Converted builtin - line 8: view_object[0] = id -> __view_set( e__VW.Object, 0, id )
+Converted description /// @description  Create
+Converted string - line 4: 'absent' -> "absent"
+
+Converting GML script: ${project_dir}\objects\obj_train_platform\Step_0.gml
+Converted builtin - line 55: view_object[0] = obj_camera -> __view_set( e__VW.Object, 0, obj_camera )
+Converted description /// @description  Step
+Converted string - line 5: 'absent' -> "absent"
+Converted string - line 14: 'call' -> "call"
+Converted string - line 18: 'call' -> "call"
+Converted string - line 29: 'present' -> "present"
+Converted string - line 33: 'dismiss' -> "dismiss"
+Converted string - line 48: 'absent' -> "absent"
+Converted string - line 52: 'present' -> "present"
+
+Converting GML script: ${project_dir}\objects\obj_switch_call\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_switch_call\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 6: 'call' -> "call"
+
+Converting GML script: ${project_dir}\objects\obj_switch_call\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_switch_dismiss\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_switch_dismiss\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 6: 'dismiss' -> "dismiss"
+
+Converting GML script: ${project_dir}\objects\obj_switch_dismiss\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_train_interior\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_conductor\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_conductor\Alarm_0.gml
+Converted description /// @description  Alarm
+Converted string - line 5: 'refuge' -> "refuge"
+
+Converting GML script: ${project_dir}\objects\obj_conductor\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_furnace\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_furnace\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_furnace\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_create_player\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_lilboy\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 3: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_lilboy\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 5: 'idle' -> "idle"
+Converted string - line 9: 'move' -> "move"
+Converted string - line 11: 'move' -> "move"
+Converted string - line 21: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_lilboy\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_boss_plat\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_crawler\Create_0.gml
+Converted string - line 4: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_crawler\Step_0.gml
+Converted description /// @description  temp
+Converted string - line 5: 'idle' -> "idle"
+Converted string - line 9: 'crawl' -> "crawl"
+Converted string - line 13: 'crawl' -> "crawl"
+Converted string - line 19: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_pipe\Create_0.gml
+Converted description /// @description  Create
+
+Converting GML script: ${project_dir}\objects\obj_pipe\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\spr_blobboy\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 3: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\spr_blobboy\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\spr_blobboy\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_longboy\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 3: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_longboy\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 5: 'idle' -> "idle"
+Converted string - line 9: 'move' -> "move"
+Converted string - line 11: 'move' -> "move"
+Converted string - line 22: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_longboy\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_lickboy\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 7: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_lickboy\Step_0.gml
+Converted description /// @description  Step
+
+Converting GML script: ${project_dir}\objects\obj_lickboy\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_boulder\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 7: 'idle' -> "idle"
+
+Converting GML script: ${project_dir}\objects\obj_boulder\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 18: 'damage' -> "damage"
+
+Converting GML script: ${project_dir}\objects\obj_boulder\Draw_0.gml
+Converted description /// @description  Draw
+
+Converting GML script: ${project_dir}\objects\obj_enemy\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 3: 'spawn' -> "spawn"
+
+Converting GML script: ${project_dir}\objects\obj_enemy\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 3: 'spawn' -> "spawn"
+Converted string - line 7: 'air' -> "air"
+Converted string - line 11: 'air' -> "air"
+Converted string - line 18: 'grounded' -> "grounded"
+Converted string - line 22: 'grounded' -> "grounded"
+Converted string - line 35: 'air' -> "air"
+
+Converting GML script: ${project_dir}\objects\obj_floaty\Create_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_floaty\Step_0.gml
+Converted description /// @description  temp
+
+Converting GML script: ${project_dir}\objects\obj_boss\Create_0.gml
+Converted description /// @description  Create
+Converted string - line 21: 'inactive' -> "inactive"
+Converted string - line 22: 'wake' -> "wake"
+Converted string - line 23: 'idle' -> "idle"
+Converted string - line 24: 'antic' -> "antic"
+Converted string - line 25: 'roll' -> "roll"
+Converted string - line 26: 'bump' -> "bump"
+Converted string - line 27: 'return' -> "return"
+Converted string - line 28: 'flip' -> "flip"
+Converted string - line 29: 'flipped' -> "flipped"
+Converted string - line 30: 'getup' -> "getup"
+Converted string - line 31: 'dead' -> "dead"
+Converted string - line 34: 'inactive' -> "inactive"
+
+Converting GML script: ${project_dir}\objects\obj_boss\Step_0.gml
+Converted description /// @description  Step
+Converted string - line 18: 'dead' -> "dead"
+
+Converting GML script: ${project_dir}\objects\obj_boss\Draw_0.gml
+Converted description /// @description  Draw
+
+macOS icon ${options_dir}\mac\icons\icon512.png written out as 32-bit
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'track_gundrill' - setting to default audio group
+Missing audiogroup for sound: 'track_blank' - setting to default audio group
+Missing audiogroup for sound: 'track_station' - setting to default audio group
+Missing audiogroup for sound: 'track_battle' - setting to default audio group
+Missing audiogroup for sound: 'track_solemn' - setting to default audio group
+Missing audiogroup for sound: 'track_travel' - setting to default audio group
+Missing audiogroup for sound: 'track_sad' - setting to default audio group
+Missing audiogroup for sound: 'track_theme' - setting to default audio group
+Missing audiogroup for sound: 'track_victory' - setting to default audio group
+Missing audiogroup for sound: 'track_menu' - setting to default audio group
+Missing audiogroup for sound: 'sb_walljump' - setting to default audio group
+Missing audiogroup for sound: 'sb_drill' - setting to default audio group
+Missing audiogroup for sound: 'sb_shoot' - setting to default audio group
+Missing audiogroup for sound: 'sb_burst' - setting to default audio group
+Missing audiogroup for sound: 'sb_blockbreak' - setting to default audio group
+Missing audiogroup for sound: 'sb_drill_stop' - setting to default audio group
+Missing audiogroup for sound: 'sb_jump' - setting to default audio group
+Missing audiogroup for sound: 'sb_land' - setting to default audio group
+Missing audiogroup for sound: 'sb_enemy_death' - setting to default audio group
+Missing audiogroup for sound: 'sb_enemy_hit' - setting to default audio group
+Missing audiogroup for sound: 'sb_enemy_hit_old' - setting to default audio group
+Missing audiogroup for sound: 'sb_drill_start' - setting to default audio group
+Missing audiogroup for sound: 'sb_explosion' - setting to default audio group
+Missing audiogroup for sound: 'sb_jetpack' - setting to default audio group
+Missing audiogroup for sound: 'sb_splash' - setting to default audio group
+Missing audiogroup for sound: 'sb_waterfall' - setting to default audio group
+Missing audiogroup for sound: 'sb_ore_pickup' - setting to default audio group
+Missing audiogroup for sound: 'sb_get_health' - setting to default audio group
+Missing audiogroup for sound: 'sb_upgrade_suit' - setting to default audio group
+Missing audiogroup for sound: 'sb_upgrade_gun' - setting to default audio group
+Missing audiogroup for sound: 'sb_nope' - setting to default audio group
+Missing audiogroup for sound: 'sb_ore_bounce' - setting to default audio group
+Missing audiogroup for sound: 'sb_explosion_ore' - setting to default audio group
+Missing audiogroup for sound: 'sb_death' - setting to default audio group
+Missing audiogroup for sound: 'sb_furnace_activation' - setting to default audio group
+Missing audiogroup for sound: 'sb_player_hit' - setting to default audio group
+Missing audiogroup for sound: 'sb_boss_roll' - setting to default audio group
+Missing audiogroup for sound: 'sb_boss_bump' - setting to default audio group
+Missing audiogroup for sound: 'sb_boss_shell' - setting to default audio group
+Missing audiogroup for sound: 'sb_upgrade' - setting to default audio group
+Game speed set to 60
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
