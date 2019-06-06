@@ -10,11 +10,12 @@
         "57481da2-9934-48be-be32-ae7bd3c4044c",
         "ada46074-fd26-429f-bfc2-c8289306d288",
         "8223a7ff-7bc8-4b6b-9471-4ae7456f3254",
-        "b28a3434-d1bc-40ff-a980-1472762a6c1b",
         "f4f34d8b-f781-4a96-b26c-9e1b6ec97799",
         "9eed7546-041f-42f0-8202-6970af15fcb4",
         "b0809e31-0e9d-4986-b567-e2a53344e04d",
-        "0b3aadcb-ebd7-40a9-866c-f8ed80f504a3"
+        "0b3aadcb-ebd7-40a9-866c-f8ed80f504a3",
+        "2fdbca57-d654-4c6a-b7b4-1ec531a09b07",
+        "f17da052-3c69-46b0-8104-e094889ad19e"
     ],
     "filterType": "GMObject",
     "folderName": "Control",

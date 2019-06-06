@@ -19,3 +19,8 @@ for (var _i=0; _i<instance_number(obj_door); _i++) {
 if room = r_ini {
 	room_goto_next();
 }
+
+// Transition graphics
+if room != r_dead {
+	room_start_timer = 1;
+}

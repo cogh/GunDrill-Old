@@ -49,7 +49,7 @@ layer_x(_layer,cam_x*0.5);
 layer_y(_layer,cam_y*0.5);
 
 // Special room parallax
-if room = r_old_colony_21 {
+if room = r_old_colony_21 || room = r_old_colony_western_2 {
 	// bg1
 	var _layer = layer_get_id("Background_1");
 	layer_x(_layer,cam_x*1);
@@ -67,6 +67,7 @@ if room = r_old_colony_21 {
 	layer_x(_layer,cam_x*0.25);
 	layer_y(_layer,cam_y*1);
 }
+
 
 // Shake
 shake = lerp(shake,0,0.2);

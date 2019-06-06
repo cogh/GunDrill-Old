@@ -9,7 +9,6 @@
         "598331cf-38de-41ef-973a-856d254360fc",
         "07ca0e96-1f62-4214-b909-54d818f98303",
         "d58d26e1-b90e-4f40-9d25-11c2efa0ae87",
-        "f17da052-3c69-46b0-8104-e094889ad19e",
         "21c53d0e-22d0-4c0d-aa29-747f777e622a",
         "3f72c58e-b8e6-4cb5-b02b-a0278948e850",
         "24e558eb-e5e6-418b-91ed-d2d34e3321eb",
@@ -24,7 +23,8 @@
         "c01f1edb-5717-4005-b5b3-ebb0831e825c",
         "cddf0433-1f1a-4b7c-b6d0-d9c54a3534da",
         "e01105ee-2ae9-4942-83f3-a5c5a672164c",
-        "f93d4691-decc-44a5-88d6-5f82fbc8fb7f"
+        "f93d4691-decc-44a5-88d6-5f82fbc8fb7f",
+        "6cf1d158-0a3e-47f0-acee-261a6e515289"
     ],
     "filterType": "GMObject",
     "folderName": "Old Colony Stuff",

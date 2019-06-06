@@ -4,7 +4,7 @@
 /// @description  Create
 
 // Stats (Static)
-hp_max = 15;
+hp_max = 10;
 def = 0;
 atk = 0;
 

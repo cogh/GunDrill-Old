@@ -3,7 +3,8 @@ if keyboard_check_pressed(ord("R")) {
 }
 
 if keyboard_check_pressed(ord("N")) {
-	room_goto(room_next(room));
+	obj_room_manager.target_room = room+1;
+	obj_room_manager.trigger = true;
 }
 
 if keyboard_check_pressed(vk_escape) {

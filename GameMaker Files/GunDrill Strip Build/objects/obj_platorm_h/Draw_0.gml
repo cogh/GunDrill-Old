@@ -3,4 +3,3 @@
 
 draw_self();
 
-draw_text(x,y-16,ds_list_size(passenger_list));

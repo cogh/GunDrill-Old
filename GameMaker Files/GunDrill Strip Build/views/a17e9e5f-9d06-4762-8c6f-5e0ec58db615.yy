@@ -9,10 +9,11 @@
         "739c5c6b-a2ad-4b7f-96e0-0eb65f548cf5",
         "af850600-b82b-48ee-889a-5e50bb89ca06",
         "160e9818-7736-449d-b4be-905d7acd5cae",
-        "da5ac361-a714-4937-9a91-82e84818eb96"
+        "da5ac361-a714-4937-9a91-82e84818eb96",
+        "26bf69f1-bd6f-4915-824d-80c734ae1e94"
     ],
     "filterType": "GMScript",
-    "folderName": "Drawing",
+    "folderName": "GUI",
     "isDefaultView": false,
     "localisedFolderName": ""
 }

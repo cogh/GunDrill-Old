@@ -42,7 +42,7 @@ scr_state_set("inactive");
 origin_x = x;
 
 // Stats
-hp_max = 500;
+hp_max = 300;
 hp = hp_max;
 dead = false;
 damage = false;

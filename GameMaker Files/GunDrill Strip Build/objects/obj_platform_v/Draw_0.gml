@@ -13,4 +13,3 @@ draw_self();
 
 //collision_line_length(x+16,y,x+16,y-128,par_solid,true,true);
 
-draw_text(x,y-16,ds_list_size(passenger_list));

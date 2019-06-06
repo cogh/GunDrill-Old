@@ -1,16 +1,22 @@
 /// @description Insert description here
 // You can write your code in this editor
 
+// Depth fix
+if instance_exists(obj_player) {
+	depth = obj_player.depth-1;
+}
+
 // Target x
 target_x = (origin_x + (sin(obj_timer.time*pi*2)*8));
 
 // Velocity
 hsp = target_x - x;
 vsp = 0;
+if swing = false { hsp = 0; }
 
 // Raise
 if place_meeting(x,y-1,obj_player) {
-	vsp -= 1;
+	vsp -= 0.5;
 }
 else {
 	vsp = 0;
@@ -18,7 +24,7 @@ else {
 
 // Set chain coords
 chain_x1 = x;
-chain_y1 = bbox_top;
+chain_y1 = y - (sprite_height/2);
 
 // Find new passengers
 for (var _i = 0; _i < instance_number(par_entity); _i++) {

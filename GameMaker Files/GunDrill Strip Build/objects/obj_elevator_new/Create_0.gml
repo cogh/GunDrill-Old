@@ -26,3 +26,5 @@ chain_y2 = _y;
 passenger_list = ds_list_create();
 
 own_weight = 0.1;
+
+swing = false;

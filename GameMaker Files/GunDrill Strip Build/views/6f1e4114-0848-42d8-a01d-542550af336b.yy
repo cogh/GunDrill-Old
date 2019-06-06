@@ -11,6 +11,12 @@
         "6040e850-8519-415e-9543-6ac8c110117d",
         "d46016ab-b98c-4933-850a-edab414907f7",
         "9ff015b0-476f-45d7-96e6-a5a526fcc43f",
+        "03ae73c3-eb34-41ae-bc74-c2da63f34711",
+        "65e4acab-57f0-424f-aae2-4b39af0f81a0",
+        "e205903e-f987-4dc1-87d0-5b81c1427b96",
+        "0b4c6766-a02e-4a4c-a80c-5c5db09052f1",
+        "8b98e8dc-9daa-4044-ab83-202ab43ed844",
+        "b79ef6a7-f9e7-44c2-b90b-0f98bbf078df",
         "79a017e7-bcc4-4e0f-a0de-ff98791e94cc",
         "e37a14c4-689d-4c34-bc7a-460a4cc8996e",
         "347f0880-b912-4742-ac0b-c6eef704ffe1",
@@ -33,8 +39,8 @@
         "adb1e212-58b9-421c-b265-bc1ac758cb6e",
         "81422f49-acd4-45bb-abd8-9df1bf7f0186",
         "3456665e-3548-4be4-af81-8e3aeee12f85",
-        "77aa367a-d96e-4705-879f-370cb5fa042e",
-        "21067b0d-bb3c-4ec6-91aa-59251d3c8980"
+        "21067b0d-bb3c-4ec6-91aa-59251d3c8980",
+        "77aa367a-d96e-4705-879f-370cb5fa042e"
     ],
     "filterType": "GMSprite",
     "folderName": "Old Colony Stuff",
