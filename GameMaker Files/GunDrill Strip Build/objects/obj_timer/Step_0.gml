@@ -11,9 +11,9 @@ else if click = true {
 	click = false; 
 }
 
-if keyboard_check(vk_left) {
+if keyboard_check(vk_numpad6) {
 	spd = lerp(spd,0.3/room_speed,0.1);
 }
-if keyboard_check(vk_right) {
+if keyboard_check(vk_numpad4) {
 	spd = lerp(spd,1.5/room_speed,0.1);
 }

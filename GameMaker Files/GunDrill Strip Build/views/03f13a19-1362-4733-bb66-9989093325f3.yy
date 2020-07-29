@@ -22,7 +22,8 @@
         "0628fb0c-5e94-4290-9837-9c28a9acb85d",
         "6cb918ee-816c-4a2b-b163-eb3dd9d9065a",
         "1e2915bc-135c-4eaf-99cd-51803e18ae1a",
-        "eae7bd73-192e-499e-9aad-cfb4ad37f227"
+        "eae7bd73-192e-499e-9aad-cfb4ad37f227",
+        "34ebc7bd-ebfa-4375-b87a-ffb1506da51c"
     ],
     "filterType": "GMScript",
     "folderName": "Import",

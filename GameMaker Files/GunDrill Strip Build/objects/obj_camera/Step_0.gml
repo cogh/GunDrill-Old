@@ -23,7 +23,7 @@ if instance_exists(obj_player) {
 }
 
 // Zoom
-if keyboard_check(vk_up) {
+if keyboard_check(vk_numpad8) {
 	cam_w = clamp(cam_w-cam_scale,0,room_width);
 	cam_h = clamp(cam_h-cam_scale,0,room_height);
 	camera_set_view_size(camera,cam_w,cam_h);
@@ -31,7 +31,7 @@ if keyboard_check(vk_up) {
 		surface_resize(application_surface,cam_w,cam_h);
 	}
 }
-if keyboard_check(vk_down) {
+if keyboard_check(vk_numpad2) {
 	cam_w = clamp(cam_w+cam_scale,0,room_width);
 	cam_h = clamp(cam_h+cam_scale,0,room_height);
 	camera_set_view_size(camera,cam_w,cam_h);

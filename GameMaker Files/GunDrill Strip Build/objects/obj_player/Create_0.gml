@@ -23,3 +23,6 @@ invisible = false;
 
 // Create camera
 scr_create_camera();
+
+// Input
+scr_input_ini();

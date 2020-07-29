@@ -9,6 +9,9 @@ gun_state_timer++;
 var shot_x = scr_gun_xoffset();
 var shot_y = scr_gun_yoffset();
 
+// Set dir
+scr_gun_dir();
+
 // Sprite
 scr_gun_sprite();
 

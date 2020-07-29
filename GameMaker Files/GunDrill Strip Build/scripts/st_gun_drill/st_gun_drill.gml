@@ -24,6 +24,9 @@ gun_state_timer++;
 var shot_x = scr_gun_xoffset();
 var shot_y = scr_gun_yoffset();
 
+// Set dir
+scr_gun_dir();
+
 // Drillride
 if gun_dir = 270 {
     // Sparks
